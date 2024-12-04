@@ -1,4 +1,4 @@
-![imagai](https://github.com/joel-kalema/image-ai-generater/assets/57408419/ddeee7b3-c747-4d73-bd6e-77320eb23ec9)
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/12f885e4-383a-445b-bba4-f1eb6e12f5e9">
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -23,7 +23,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio.
+Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -86,7 +86,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/joel-kalema/image-ai-generater.git
+git clone https://github.com/moise10r/image-ai-generator
 cd image-ai-generator
 ```
 
@@ -138,3 +138,20 @@ yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## Authors
+
+👤 NGANULO RUSHANIKA Moise
+
+- GitHub: [@githubhandle](https://github.com/moise10r)
+- Twitter: [@twitterhandle](https://twitter.com/MRushanika)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nganulo-rushanika-mo%C3%AFse-626139197/)
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
