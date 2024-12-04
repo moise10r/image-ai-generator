@@ -107,7 +107,7 @@ Create a new file named `.env.local` in the root of your project and add the fol
 NEXT_PUBLIC_SERVER_URL=
 
 #MONGODB
-MONGODB_URL=mongodb+srv://Moise:couronnerush@cluster0.ayfg8.mongodb.net/image-ai-generator
+MONGODB_URL=
 
 #CLERK
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
